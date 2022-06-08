@@ -4,10 +4,10 @@
     "occupation": "Full-Stack Software Developer",
     "description": "Let's build something cool! ",
     "image": "profilepic.jpg",
-    "bio": "Hey! I am Zach! Motivated Full Stack developer with experience in Healthcare and Project Management. Passionate about building clean products. I love to learn and stay to stay up to date on the latest trends. Lets build something cool together!",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "bio": "Hey! I am Zach! A motivated full stack software developer with additional experience in Healthcare and Project Management. Passionate about building clean products. Bugs have never bothered me. I love learning new trends. I stay up to date. Lets build something cool together!",
+    "contactmessage": "Please reach out to me if you want to work together!",
     "email": "zvcoding@gmail.com",
-    "phone": "+44 1234567899",
+    "phone": "615 268 2340",
     "address": {
       "street": "E 36th Street",
       "city": "New York",
@@ -17,11 +17,6 @@
     "website": "https://www.papareact.com/course",
     "resumedownload": "https://docs.google.com/document/d/13uhL3HTJaAp3LHbVHs5XtiNwL-a00JWUAmne2qKXpCA/edit?usp=sharing",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/profile.php?id=100004020201131",
@@ -74,7 +69,7 @@
         "company": "Manager, Global Sourcing & Manager, Pharmacy Sourcing",
         "title": "Contractor, Strategic Sourcing",
         "years": "10/2015 – 4/2018",
-        "description": "Spearheaded projects that produced $17M in savings in 2017, $210M in cost avoidance, and $19M in savings in 2016.Developed Bloomberg-connected spreadsheets summarizing product pricing and their raw materials"
+        "description": "Spearheaded projects that produced $17M in savings in 2017, $210M in cost avoidance, and $19M in savings in 2016. Developed Bloomberg-connected spreadsheets summarizing product pricing and their raw materials"
       }
     ],
     "skills": [
@@ -107,22 +102,41 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Twitter Clone (TypeScript/React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "twitter.jpg",
+        "url": "https://twitter2049.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Reddit Clone (TypeScript/React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "reddit.jpg",
+        "url": "https://reddit2049.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "WhatsApp Clone (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "whatsapp.jpg",
+        "url": "https://whats2049.vercel.app/"
+      },
+      {
+        "title": "Pacman Clone (React JS)",
+        "category": "",
+        "image": "pacman.jpg",
+        "url": "https://pactheman3000.herokuapp.com/"
+      },
+      {
+        "title": "FlyHome Original Game (React JS/Rails)",
+        "category": "",
+        "image": "flyhome.jpg",
+        "url": "https://flyhomefinal.herokuapp.com/"
+      },
+      
+      {
+        "title": "QTE Typing Game (React JS/Ruby)",
+        "category": "",
+        "image": "qte.jpg",
+        "url": "https://qte4000.herokuapp.com/MainMenu"
       }
     ]
   },
