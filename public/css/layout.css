@@ -22,11 +22,27 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body {
+   background: #0f0f0f;
+    }
+
+    /* * {
+      outline: 1px solid #f00 !important;
+    } */
+
+    html,body{
+      background: #0f0f0f;
+   }
+
+   ::-webkit-scrollbar {
+      display: none;
+  }
+    
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
+
 
 header {
    position: relative;
@@ -38,7 +54,10 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+  
 }
+
+
 
 /* vertically center banner section */
 header:before {
@@ -54,7 +73,11 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
+   
 }
+
+
+
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
@@ -118,8 +141,20 @@ header .scrolldown a {
    -moz-transition: all .3s ease-in-out;
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
+   
 }
+
+
 header .scrolldown a:hover { color: #11ABB0; }
+
+.cloudy{
+ 
+   background-color:rgba(0, 0, 0, 0.2);
+
+   border-radius: 25px;
+}
+
+
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -433,6 +468,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
+#portfolio-wrapper{
+   display: flex;
+   flex-wrap: wrap;
+
+   
+}
+
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
