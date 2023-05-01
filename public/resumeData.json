@@ -4,7 +4,7 @@
     "occupation": "Full-Stack Software Developer",
     "description": "Let's build something cool! ",
     "image": "profilepic.jpg",
-    "bio": "Hey! I am Zach! A motivated full stack software developer with additional experience in Healthcare and Project Management. Passionate about building clean products. Bugs have never bothered me. I love learning new trends. I stay up to date. Let's build something cool together!",
+    "bio": "Hi, I'm Zach! As a full stack software developer with a background in healthcare and supply chain management, I'm excited to contribute to the AI-driven supply chain industry. Passionate about crafting efficient solutions, I embrace challenges and stay up to date with the latest Programming/AI trends.\nWith my expertise in procurement orchestration and strong foundation in programming and data analysis, I'm eager to leverage my skills to implement cutting-edge technologies that drive value. Let's build something cool together!",
     "contactmessage": "Please reach out to me if you want to work together!",
     "email": "zvcoding@gmail.com",
     "phone": "615 268 2340",
@@ -56,6 +56,12 @@
     ],
     "work": [
       {
+        "company": "Population Council  ",
+        "title": "Junior Full Stack Software Engineer",
+        "years": "7/2022 – Present",
+        "description": "Collaborated in the Innovation Lab, enhancing research capabilities through web scrapers for social media, Discord sentiment analysis bots, and other tools. Developed applications for the developing world, focused on health and tech resources, including safety, epidemiology, sexual education, and more. Contributed to data reorganization by helping build a centralized repository to hold and standardize company data. Worked with Microsoft to implement OpenAI/ChatGPT, identifying opportunities for AI integration in the organization"
+      },
+      {
         "company": "Premier Healthcare/New York Health and Hospital",
         "title": "Manager, Software and Imaging Contracts",
         "years": "7/2019 – 9/2021",
@@ -74,28 +80,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "ReactJs/NextJs",
         "level": "100%"
       },
       {
-        "name": "TypeScript",
-        "level": "85%"
+        "name": "JavaScript/TypeScript",
+        "level": "92%"
       },
       {
-        "name": "JavaScript",
+        "name": "CSS/Tailwind",
         "level": "99%"
       },
       {
-        "name": "Ruby",
-        "level": "75%"
+        "name": "Python/Django",
+        "level": "90%"
       },
       {
         "name": "Web Development",
         "level": "95%"
       },
       {
-        "name": "C++",
-        "level": "20%"
+        "name": "AI",
+        "level": "80%"
       }
     ]
   },
